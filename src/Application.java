@@ -11,7 +11,7 @@ public class Application {
 		int age = 27;
 		String firstName = "Paul";
 		String lastName = "Tuura";
-		String middleInitial = "P";
+		char middleInitial = 'P';
 		
 		// Part 3
 		double afterShopping = cashInWallet - Kerrygold;
